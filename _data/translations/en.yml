@@ -1,9 +1,8 @@
 lang:
-  id: Indonesia
   en: English
   fr: French
   zh: Chinese
 menu:
-  home: Home
+  home: AHome
   blog: Blog
   github: See on GitHub
