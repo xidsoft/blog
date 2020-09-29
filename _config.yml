@@ -53,10 +53,10 @@ plugins:
 - jekyll-sitemap
 
 # Multiligual
-lang:
-  - en
-  - fr
-  - zh
+# lang:
+#   - en
+#   - fr
+#   - zh
 
 # Version (helps with force reloading assets)
 version: sparkle
